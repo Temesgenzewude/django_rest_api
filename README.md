@@ -1,1 +1,1 @@
-# my_first_django_rest_api
+django_rest_api
